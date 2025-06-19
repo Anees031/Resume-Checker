@@ -1,0 +1,5 @@
+,Accuracy
+Decision Tree,0.5
+Random Forest,0.29
+XGBoost,0.39
+KNN,0.33
